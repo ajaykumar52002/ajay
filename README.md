@@ -14,7 +14,7 @@ Project Title : Flavorful
 
 Primary Azure Technologies : Static Web, App Service.
 
-Problem Statement/Opportunity : https://flavorful.azurewebsites.net
+Problem Statement/Opportunity : 
 
 Project Description : 
 
