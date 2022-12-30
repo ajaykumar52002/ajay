@@ -20,7 +20,7 @@ Project Description :
 
 Static Web URL : https://purple-river-02a7a6500.2.azurestaticapps.net
 
-App Service URL : 
+App Service URL : https://flavorful.azurewebsites.net
 
 # My Website Link Is : https://purple-river-02a7a6500.2.azurestaticapps.net
 
