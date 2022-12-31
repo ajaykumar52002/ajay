@@ -14,9 +14,9 @@ Project Title : Flavorful
 
 Primary Azure Technologies : Static Web, App Service.
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : Ready-to-eat (RTE) foods are a group of food products that are pre-cleaned, precooked, mostly packaged and ready for consumption without prior preparation or cooking.
 
-Project Description : 
+Project Description : In this project, I have created six templets they are home, about , menu , services, specials, and contact us  in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website.
 
 Static Web URL : https://purple-river-02a7a6500.2.azurestaticapps.net
 
