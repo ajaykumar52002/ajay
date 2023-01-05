@@ -1,3 +1,5 @@
+# Finalpro : Future Ready Talent Project by Maddikuntla Ajay Kumar
+
 # Flavorful
 
 Microsoft-Future-Ready-Talent-Internship-Project
@@ -12,21 +14,23 @@ Industry : Life Style
 
 Project Title : Flavorful
 
-Primary Azure Technologies : Static Web, App Service.
+Primary Azure Technologies : Static Web, App Service and Health Bot.
 
 Problem Statement/Opportunity : Ready-to-eat (RTE) foods are a group of food products that are pre-cleaned, precooked, mostly packaged and ready for consumption without prior preparation or cooking.
 
-Project Description : In this project, I have created six templets they are home, about , menu , services, specials, and contact us  in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website.
+Project Description : In this project, I have created six templets they are home, about , menu , services, specials, contact us and bot in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website.
 
 Static Web URL : https://purple-river-02a7a6500.2.azurestaticapps.net
 
 App Service URL : https://flavorful.azurewebsites.net
 
+Health Bot URL : https://purple-river-02a7a6500.2.azurestaticapps.net/bot.html
+
 # My Website Link Is : https://purple-river-02a7a6500.2.azurestaticapps.net
 
 ## HOME
 
-<img width="953" alt="home" src="https://user-images.githubusercontent.com/118246201/209976010-0cb8937a-5fb7-4de3-94de-41c912c0f9e3.png">
+<img width="946" alt="Screenshot_20230105_073714" src="https://user-images.githubusercontent.com/118246201/210799042-ac871bcd-2400-44c0-9e3e-9f94137f0a04.png">
 
 ## ABOUT
 
@@ -66,6 +70,14 @@ App Service URL : https://flavorful.azurewebsites.net
 
 <img width="948" alt="contact2" src="https://user-images.githubusercontent.com/118246201/209976703-1f8ca75b-8cb8-4af3-b347-ea6c48b35e76.png">
 
+## BOT
+
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/118246201/210799808-c78edfb3-9f47-408a-93de-2505cc47aaf6.png">
+
+<img width="959" alt="BOT2" src="https://user-images.githubusercontent.com/118246201/210799861-5bd59c2d-613b-4d87-a7fa-26dfdf9dd222.png">
+
+<img width="952" alt="BOT3" src="https://user-images.githubusercontent.com/118246201/210799877-574615a4-40bc-42b0-81a8-c411c6eef88b.png">
+
 ## AZURE SERVICES USED
 
-<img width="740" alt="Screenshot_20221229_091645" src="https://user-images.githubusercontent.com/118246201/209976925-966532ef-ee54-480e-af12-d5aa877cb1fb.png">
+<img width="944" alt="Screenshot_20230105_074333" src="https://user-images.githubusercontent.com/118246201/210800224-c58ca2d3-f065-4392-a7b9-34d18769bfea.png">
